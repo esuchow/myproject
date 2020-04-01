@@ -1,0 +1,8 @@
+total 8
+-rw-rw-r-- 1 ubuntu ubuntu  0 Mar  8 16:24 test.txt
+-rw-rw-r-- 1 ubuntu ubuntu 11 Mar  8 16:25 new.txt
+-rw-rw-r-- 1 ubuntu ubuntu  0 Mar 14 15:54 test11.txtt
+-rw-rw-r-- 1 ubuntu ubuntu  0 Apr  1 14:16 myfile2
+-rw-rw-r-- 1 ubuntu ubuntu  0 Apr  1 14:59 testx.txt
+-rw-rw-r-- 1 ubuntu ubuntu 14 Apr  1 15:09 myfile
+-rw-rw-r-- 1 ubuntu ubuntu  0 Apr  1 17:50 test2.txt
