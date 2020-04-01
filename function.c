@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Main()
 {
 Function1()
@@ -16,3 +17,17 @@ Function1()
 
 }
 >>>>>>> develop
+=======
+ Main()
+{
+Function1()
+   { 
+         //Initial Code
+   }
+Function3()
+      {
+             //Developer B Code
+      }
+
+}
+>>>>>>> develop2
